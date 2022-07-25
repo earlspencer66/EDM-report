@@ -1,17 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.18)  18 JUL 2022 18:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.1)  26 JUL 2022 02:15
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **./Main_file.tex
 (Main_file.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-07-04>
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/base\repo
-rt.cls
-Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/base\fleq
-n.clo
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (F:\MikTex\tex/latex/base\report.cls
+Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
+(F:\MikTex\tex/latex/base\fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\skip47
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -20,68 +14,54 @@ Already applied: [0000/00/00] Make \[ robust on input line 62.
 Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
+) (F:\MikTex\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/base\size
-12.clo
-File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
-)
-\c@part=\count185
-\c@chapter=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen138
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/ntgclass\
-a4.sty
+(F:\MikTex\tex/latex/ntgclass\a4.sty
 Package: a4 2020/02/18 v1.2g A4 based page layout
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/graphics\
-graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(F:\MikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/graphics\
-keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+(F:\MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/graphics\
-graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(F:\MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/graphics\
-trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+(F:\MikTex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/graphics-
-cfg\graphics.cfg
+(F:\MikTex\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/graphics-
-def\pdftex.def
+(F:\MikTex\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/subfig\su
-bfig.sty
+(F:\MikTex\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/caption\c
-aption.sty
+ (F:\MikTex\tex/latex/caption\caption.sty
 Package: caption 2022/03/01 v3.6b Customizing captions (AR)
-
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/caption\c
-aption3.sty
+(F:\MikTex\tex/latex/caption\caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
 \caption@tempdima=\dimen141
 \captionmargin=\dimen142
@@ -93,90 +73,73 @@ Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
 \caption@hangindent=\dimen148
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count194
-\c@continuedfloat=\count195
+\c@caption@flags=\count191
+\c@continuedfloat=\count192
 )
-\c@KVtest=\count196
+\c@KVtest=\count193
 \sf@farskip=\skip50
 \sf@captopadj=\dimen149
 \sf@capskip=\skip51
 \sf@nearskip=\skip52
-\c@subfigure=\count197
-\c@subfigure@save=\count198
-\c@lofdepth=\count199
-\c@subtable=\count266
-\c@subtable@save=\count267
-\c@lotdepth=\count268
+\c@subfigure=\count194
+\c@subfigure@save=\count195
+\c@lofdepth=\count196
+\c@subtable=\count197
+\c@subtable@save=\count198
+\c@lotdepth=\count199
 \sf@top=\skip53
 \sf@bottom=\skip54
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/psfrag\ps
-frag.sty
+(F:\MikTex\tex/latex/psfrag\psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
-\pfg@pcount=\count269
-\pfg@scount=\count270
+\pfg@pcount=\count266
+\pfg@scount=\count267
 \pfg@temp=\write3
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\a
-msmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+(F:\MikTex\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip55
 
 For additional information on amsmath, use the `?' option.
+(F:\MikTex\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\a
-mstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
-
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\a
-msgen.sty
+(F:\MikTex\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen150
 ))
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\a
-msbsy.sty
+(F:\MikTex\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen151
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\a
-msopn.sty
-Package: amsopn 2022/04/08 v2.04 operator names
+(F:\MikTex\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count271
+\inf@bad=\count268
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count272
-\leftroot@=\count273
+\uproot@=\count269
+\leftroot@=\count270
 LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count274
-\DOTSCASE@=\count275
+\classnum@=\count271
+\DOTSCASE@=\count272
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box51
-\strutbox@=\box52
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
 \big@size=\dimen152
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count276
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count277
+\macc@depth=\count273
+\c@MaxMatrixCols=\count274
 \dotsspace@=\muskip16
-\c@parentequation=\count278
-\dspbrk@lvl=\count279
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
 \tag@help=\toks18
-\row@=\count280
-\column@=\count281
-\maxfields@=\count282
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
 \andhelp@=\toks19
 \eqnshift@=\dimen153
 \alignsep@=\dimen154
@@ -188,15 +151,13 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \multlinegap=\skip56
 \multlinetaggap=\skip57
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\
-amssymb.sty
+(F:\MikTex\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\
-amsfonts.sty
+(F:\MikTex\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -211,8 +172,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \headwidth=\dimen163
 \footruleskip=\dimen164
 )
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\t
-ocloft.sty
+(F:\MikTex\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip58
@@ -278,12 +238,10 @@ or  <return>  to continue without it.
 \cftbeforetabskip=\skip89
 \cfttabindent=\skip90
 \cfttabnumwidth=\skip91
-)
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/l3backend
-\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count283
-\l__pdf_internal_box=\box53
+) (F:\MikTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box52
 ) (Main_file.aux)
 \openout1 = `Main_file.aux'.
 
@@ -302,29 +260,25 @@ LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/context/base/mk
-ii\supp-pdf.mkii
+(F:\MikTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
+\scratchcounter=\count281
 \scratchdimen=\dimen165
-\scratchbox=\box54
-\nofMPsegments=\count285
-\nofMParguments=\count286
+\scratchbox=\box53
+\nofMPsegments=\count282
+\nofMParguments=\count283
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count287
+\MPscratchCnt=\count284
 \MPscratchDim=\dimen166
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
 \everyMPtoPDFconversion=\toks23
-)
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-
-pkg\epstopdf-base.sty
+) (F:\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\
-epstopdf-sys.cfg
+(F:\MikTex\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -339,18 +293,15 @@ Package pdftex.def Info: Figures/JKUAT_logo.png  used on input line 81.
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/Bernie K. Cheruiyot/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
- <./Figures/JKUAT_logo.png>] (Main_file.toc
+{C:/Users/earls/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./Figures/JKUAT
+_logo.png>] (Main_file.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
-
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\
-umsa.fd
+ (F:\MikTex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
 
-(C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\
-umsb.fd
+(F:\MikTex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1])
 \tf@toc=\write4
@@ -362,22 +313,33 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [3
 
-] (Main_file.lot)
+]
+(Main_file.lot)
 \tf@lot=\write6
 \openout6 = `Main_file.lot'.
 
  [4
 
-]
-(Files/List of Abbreviations.tex) (Files/Introduction.tex
+] (Files/Introduction.tex
 Chapter 1.
-) [1
 
+LaTeX Warning: Citation `classnotes' on page 1 undefined on input line 5.
+
+
+LaTeX Warning: Citation `youssef2020non' on page 1 undefined on input line 6.
+
+
+LaTeX Warning: Citation `youssef2020non' on page 1 undefined on input line 6.
+
+) [1
 
 
 
 ] (Files/Chapter2.tex
 Chapter 2.
+
+LaTeX Warning: Citation `classnotes' on page 2 undefined on input line 6.
+
 [2
 
 
@@ -389,7 +351,16 @@ Package pdftex.def Info: Figures/edm.jpeg  used on input line 26.
 (pdftex.def)             Requested size: 318.66946pt x 203.92563pt.
 
 
+LaTeX Warning: Citation `classnotes' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Citation `classnotes' on page 3 undefined on input line 27.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `youssef2020non' on page 3 undefined on input line 40.
 
 [3] [4 <./Figures/edm.jpeg>] [5]) [6] (Files/Chapter3.tex
 Chapter 3.
@@ -412,10 +383,15 @@ Package pdftex.def Info: Figures/edmmachining.jpg  used on input line 24.
 ] [8 <./Figures/edmmachine.jpg>]) [9 <./Figures/edmmachining.jpg>]
 (Files/Chapter4.tex
 Chapter 4.
+<Figures/edm cut.jpg, id=59, 280.79906pt x 240.9pt>
+File: Figures/edm cut.jpg Graphic file (type jpg)
+<use Figures/edm cut.jpg>
+Package pdftex.def Info: Figures/edm cut.jpg  used on input line 5.
+(pdftex.def)             Requested size: 280.79837pt x 240.8994pt.
 ) [10
 
 
-] (Files/Chapter5.tex
+ <./Figures/edm cut.jpg>] (Files/Chapter5.tex
 Chapter 5.
 ) [11
 
@@ -424,30 +400,36 @@ Chapter 5.
 
 
 
-] (Main_file.aux) ) 
+] (Files/Appendices.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+
+]) [2] (Main_file.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4688 strings out of 478338
- 80699 string characters out of 2830056
- 372734 words of memory out of 3000000
- 23046 multiletter control sequences out of 15000+600000
- 478139 words of font info for 60 fonts, out of 8000000 for 9000
+ 4452 strings out of 478927
+ 68135 string characters out of 2869020
+ 366248 words of memory out of 3000000
+ 22238 multiletter control sequences out of 15000+600000
+ 412310 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,79p,474b,318s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Bernie K. Cheruiyot\AppData\Local\MiKTeX\fonts/pk
-/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Bernie K. Cheruiyot/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Bernie 
-K. Cheruiyot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
-2.pfb><C:/Users/Bernie K. Cheruiyot/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><C:/Users/Bernie K. Cheruiyot/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bernie K. Cheruiyot
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
-s/Bernie K. Cheruiyot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmsl12.pfb><C:/Users/Bernie K. Cheruiyot/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Bernie K. Cheruiyot/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Main_file.pdf (17 pages, 898668 bytes).
+ 69i,12n,79p,478b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\earls\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><F:/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><F:/MikTex/fonts/t
+ype1/public/amsfonts/cm/cmmi12.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><F:/MikTex/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmsl1
+2.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmti12.pfb><F:/MikTex/fonts/typ
+e1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Main_file.pdf (19 pages, 916182 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
+ 114 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

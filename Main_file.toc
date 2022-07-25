@@ -1,13 +1,12 @@
 \contentsline {section}{Table of Contents}{I}{}%
 \contentsline {section}{List of Figures}{III}{}%
 \contentsline {section}{List of Tables}{IV}{}%
-\contentsline {section}{List of Abbreviations}{1}{}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{}%
 \contentsline {section}{\numberline {1.1}Electrodischarge Machining}{1}{}%
 \contentsline {section}{\numberline {1.2}Objectives}{1}{}%
 \contentsline {chapter}{\numberline {2}Literature Review}{2}{}%
 \contentsline {section}{\numberline {2.1}Non-traditional Machining}{2}{}%
-\contentsline {section}{\numberline {2.2}Electrodischarge Machining}{2}{}%
+\contentsline {section}{\numberline {2.2}Electro-discharge Machining}{2}{}%
 \contentsline {subsection}{\numberline {2.2.1}The EDM Machining System}{3}{}%
 \contentsline {subsection}{\numberline {2.2.2}Wire EDM}{3}{}%
 \contentsline {subsection}{\numberline {2.2.3}EDM Process Parameters}{4}{}%
@@ -22,3 +21,4 @@
 \contentsline {chapter}{\numberline {5}Discussion}{11}{}%
 \contentsline {section}{\numberline {5.1}EDM Machining}{11}{}%
 \contentsline {section}{References}{12}{}%
+\contentsline {section}{\numberline {.1}G- and M-codes}{i}{}%

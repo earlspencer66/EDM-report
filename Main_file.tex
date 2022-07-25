@@ -1,16 +1,20 @@
-\documentclass[12pt,fleqn]{article}
+\documentclass[12pt,fleqn]{report}
+%\usepackage{fullpage}
+\author{Bernie, Mogire}
+\title{Additive Manufacturing}
 \usepackage{a4}
 \usepackage{graphicx}
+\usepackage{subfig}
 \usepackage{psfrag}
 \usepackage{amsmath}                     % \boldsymbol{#1}
 \usepackage{amssymb}
-\usepackage{caption}
-\usepackage{pstricks}
-\usepackage{pst-node}
+%\usepackage{hangcaption}
+%\usepackage{Styles/pstricks}
+%\usepackage{Styles/pst-node}
 \usepackage{Styles/fancyheadings}
 \usepackage{tocloft}
-\usepackage{lscape}
 %-----Tex width---------------------------------
+\textwidth 16cm
 \textwidth 16cm
 
 %-----Line spacing-------------------------------
@@ -84,8 +88,8 @@
    \large{Department of Mechatronic Engineering}\\
 
     ------------------------------------------------------------------------------------------------\\[1.0cm]
-    \LARGE{\textbf{Design of a Pan-Tilt Teleoperated Camera Mount}}\\[0.6cm]
-    \LARGE{\textbf{Project Proposal Abstract
+    \LARGE{\textbf{EMT 2540: PRACTICAL REPORT I}}\\[0.6cm]
+    \LARGE{\textbf{ELECTRODISCHARGE MACHINING
             }}\\[1.5cm]
     %\large{by}\\[0.6cm
 
@@ -105,8 +109,8 @@
 %
 %\pagenumbering{gobble}% Remove page numbers (and reset to 1)
 
-\input{Files/Declaration}
-\clearpage
+%\input{Files/Declaration}
+%\clearpage
 \addcontentsline{toc}{section}{Table of Contents}
 \tableofcontents
 \clearpage
@@ -127,7 +131,7 @@
 \clearpage
 \newpage
 
-\input{Files/Abstract}
+%\input{Files/Abstract}
 
 \clearpage
 \pagenumbering{arabic}
@@ -137,10 +141,10 @@
   \clearpage
     \input{Files/Chapter3}
   \clearpage
-%    \input{Files/Chapter4}
+ \input{Files/Chapter4}
   \clearpage
-%    \input{Files/Chapter5}
-%  \clearpage
+    \input{Files/Chapter5}
+  \clearpage
 %  \input{Files/Summary}
   \clearpage
 %----  Bibliography  ----------------------------------------

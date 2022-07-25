@@ -1,16 +1,24 @@
-\contentsline {section}{Declaration}{I}{}%
-\contentsline {section}{Table of Contents}{II}{}%
+\contentsline {section}{Table of Contents}{I}{}%
 \contentsline {section}{List of Figures}{III}{}%
 \contentsline {section}{List of Tables}{IV}{}%
-\contentsline {section}{List of Abbreviations}{V}{}%
-\contentsline {section}{Abstract}{V}{}%
-\contentsline {section}{\numberline {1}Introduction}{1}{}%
-\contentsline {subsection}{\numberline {1.1}Background}{1}{}%
-\contentsline {subsection}{\numberline {1.2}Problem statement}{1}{}%
-\contentsline {subsection}{\numberline {1.3}Objectives}{1}{}%
-\contentsline {subsection}{\numberline {1.4}Justification of the study}{1}{}%
-\contentsline {section}{\numberline {2}Literature Review}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Name of a subsection}{3}{}%
-\contentsline {subsection}{\numberline {2.2}Another subsection}{3}{}%
-\contentsline {section}{\numberline {3}Methodology\ldots }{4}{}%
-\contentsline {section}{References}{5}{}%
+\contentsline {section}{List of Abbreviations}{1}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.1}Electrodischarge Machining}{1}{}%
+\contentsline {section}{\numberline {1.2}Objectives}{1}{}%
+\contentsline {chapter}{\numberline {2}Literature Review}{2}{}%
+\contentsline {section}{\numberline {2.1}Non-traditional Machining}{2}{}%
+\contentsline {section}{\numberline {2.2}Electrodischarge Machining}{2}{}%
+\contentsline {subsection}{\numberline {2.2.1}The EDM Machining System}{3}{}%
+\contentsline {subsection}{\numberline {2.2.2}Wire EDM}{3}{}%
+\contentsline {subsection}{\numberline {2.2.3}EDM Process Parameters}{4}{}%
+\contentsline {subsection}{\numberline {2.2.4}Applications}{5}{}%
+\contentsline {section}{\numberline {2.3}Other Non-Traditional Machining Processes}{5}{}%
+\contentsline {subsection}{\numberline {2.3.1}Design Considerations for EDM}{6}{}%
+\contentsline {chapter}{\numberline {3}Methodology}{7}{}%
+\contentsline {section}{\numberline {3.1}Equipment}{7}{}%
+\contentsline {section}{\numberline {3.2}Procedure}{7}{}%
+\contentsline {section}{\numberline {3.3}EDM Machining Program}{9}{}%
+\contentsline {chapter}{\numberline {4}Results}{10}{}%
+\contentsline {chapter}{\numberline {5}Discussion}{11}{}%
+\contentsline {section}{\numberline {5.1}EDM Machining}{11}{}%
+\contentsline {section}{References}{12}{}%

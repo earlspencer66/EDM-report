@@ -1,9 +1,10 @@
 *.txt
 *.db
 *.toc
-*.aux
+.aux
 *.bbl
 *.blg
-*.log
+.log
 *.lot
 *.toc
+.synctex.gz

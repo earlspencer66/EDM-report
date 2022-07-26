@@ -1,0 +1,10 @@
+*.txt
+*.db
+*.toc
+.aux
+*.bbl
+*.blg
+.log
+*.lot
+*.toc
+.synctex.gz

@@ -21,13 +21,12 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{Njiri2016}
-J.~Njiri and D.~S{\"o}ffker, ``State-of-the-art in wind turbine control: Trends
-  and challenges,'' \emph{Renewable and Sustainable Energy Reviews}, vol.~60,
-  pp. 377--393, 2016.
+\bibitem{classnotes}
+M. Andanje, ``EMT 2540: Advanced Production Technology,'' \emph{JKUAT Mechatronic
+  Engineering}, vol.~1, no.~3, pp. 40--53, 2022.
 
-\bibitem{Kane1985}
-T.~Kane and D.~Levinson, \emph{Dynamics: Theory and Applications}.\hskip 1em
-  plus 0.5em minus 0.4em\relax McGraw-Hill Book Company, New York, 1985.
+\bibitem{youssef2020non}
+H.~Youssef and H.~El-Hofy, \emph{Non-Traditional and Advanced Machining
+  Technologies}.\hskip 1em plus 0.5em minus 0.4em\relax CRC Press, 2020.
 
 \end{thebibliography}

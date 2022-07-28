@@ -21,5 +21,4 @@
 \contentsline {section}{\numberline {5}Discussion}{11}{}%
 \contentsline {subsection}{\numberline {5.1}EDM Machining}{11}{}%
 \contentsline {section}{References}{12}{}%
-\contentsline {section}{\numberline {6}\centering {Appendices}}{i}{}%
 \contentsline {subsection}{\numberline {.1}G- and M-codes}{i}{}%

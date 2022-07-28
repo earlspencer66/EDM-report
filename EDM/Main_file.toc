@@ -18,6 +18,7 @@
 \contentsline {subsection}{\numberline {3.2}Procedure}{7}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}EDM Machining Program}{9}{subsection.3.3}%
 \contentsline {section}{\numberline {4}Results}{10}{section.4}%
+\contentsline {paragraph}{}{10}{section*.6}%
 \contentsline {section}{\numberline {5}Discussion}{11}{section.5}%
 \contentsline {section}{References}{12}{section.5}%
 \contentsline {subsection}{\numberline {.1}G- and M-codes}{i}{subsection.Alph0.1}%

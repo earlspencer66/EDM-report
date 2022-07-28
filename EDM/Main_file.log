@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.1)  28 JUL 2022 19:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.1)  28 JUL 2022 19:46
 entering extended mode
 **./Main_file.tex
 (Main_file.tex
@@ -560,8 +560,8 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11699 strings out of 478927
- 174492 string characters out of 2869020
+ 11700 strings out of 478927
+ 174502 string characters out of 2869020
  478582 words of memory out of 3000000
  29291 multiletter control sequences out of 15000+600000
  411352 words of font info for 56 fonts, out of 8000000 for 9000
@@ -573,9 +573,9 @@ ype1/public/amsfonts/cm/cmmi12.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cm
 r10.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><F:/MikTex/fonts/ty
 pe1/public/amsfonts/cm/cmr8.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmti1
 2.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Main_file.pdf (17 pages, 1076678 bytes).
+Output written on Main_file.pdf (17 pages, 1076793 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
+ 312 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
  215 words of extra memory for PDF output out of 10000 (max. 10000000)
 

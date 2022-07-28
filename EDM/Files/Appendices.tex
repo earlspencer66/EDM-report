@@ -13,18 +13,17 @@
  \textbf{G-code} & \textbf{Definition} &\textbf{ M-code} & \textbf{Definition}\\
  \hline
  
- G00 & Rapid Transverse & M00 & Program Stop\\
- G01 & Linear Interpolation &  M02 & End of Program \\
- G02 & Circular Interpolation, CW & M03 & Spindle ON, CW \\
- G03 & Circular Interpolation, CCW& M05 & Spindle OFF \\
- G21 & Input in mm & M06 & Automatic Tool Change\\
- G28 & Return to reference point & M07 & Flood Coolant ON \\
- G40 & Cutter diameter compensation cancel&M09 & Coolant OFF\\
- G42 & Cutter compensation, right &  M30 & Program Reset and Rewind\\
- G49 & Tool length compensation cancel &&\\
- G80 & Canned Cycle cancel&&\\
- G81 & Basic Drilling Cycle&&\\
- G90 & Absolute Programming Mode&&\\
+ G00 & Rapid Positioning & M00 & Program Stop\\
+ G01 & Line insertion &  M02 & End of Program \\
+ G02 & Clockwise Insertion & M21 & Block Pause ON \\
+ G03 & CCW arc insertion& M22 & Block Pause OFF \\
+ G06 & Metric System input & M23 & Approach Cut ON\\
+ G40 & Wire dia compensation cancellation & M25 & Corner ON \\
+ G60 & Equal ROUND& M33 & Approach Cut OFF\\
+ G61 & Unequal ROUND &  M30 & Program End and Jog\\
+ G90 & Absolute coordinate&&\\
+ G92 & Program origin &&\\
+ G95 & Servo feed&&\\
  \hline
  \end{tabular}
  \end{center}

@@ -1,6 +1,5 @@
 \contentsline {section}{Table of Contents}{I}{}%
-\contentsline {section}{List of Figures}{III}{}%
-\contentsline {section}{List of Tables}{IV}{}%
+\contentsline {section}{List of Figures}{II}{}%
 \contentsline {section}{List of Abbreviations}{1}{}%
 \contentsline {section}{\numberline {1}Introduction}{1}{}%
 \contentsline {subsection}{\numberline {1.1}CNC Machining}{1}{}%

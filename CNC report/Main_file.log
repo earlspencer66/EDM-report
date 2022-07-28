@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.1)  28 JUL 2022 14:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.1)  28 JUL 2022 14:19
 entering extended mode
 **./Main_file.tex
 (Main_file.tex
@@ -303,35 +303,29 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write4
 \openout4 = `Main_file.toc'.
 
- [1] [2] (Main_file.lof)
+ [1] (Main_file.lof)
 \tf@lof=\write5
 \openout5 = `Main_file.lof'.
 
- [3
+ [2
 
 ]
-(Main_file.lot)
-\tf@lot=\write6
-\openout6 = `Main_file.lot'.
-
- [4
-
-] (Files/List of Abbreviations.tex) (Files/Introduction.tex)
-[1
+(Files/List of Abbreviations.tex) (Files/Introduction.tex) [1
 
 
-
-] (Files/Chapter2.tex [2
 
 ]
-<Figures/cncschematic.jpg, id=30, 670.75594pt x 670.75594pt>
+(Files/Chapter2.tex [2
+
+]
+<Figures/cncschematic.jpg, id=22, 670.75594pt x 670.75594pt>
 File: Figures/cncschematic.jpg Graphic file (type jpg)
 <use Figures/cncschematic.jpg>
 Package pdftex.def Info: Figures/cncschematic.jpg  used on input line 20.
 (pdftex.def)             Requested size: 364.19664pt x 364.19861pt.
  [3 <./Figures/cncschematic.jpg>] [4] [5]) [6]
 (Files/Chapter3.tex
-<Figures/machinecontroller.jpg, id=44, 4015.0pt x 3011.25pt>
+<Figures/machinecontroller.jpg, id=37, 4015.0pt x 3011.25pt>
 File: Figures/machinecontroller.jpg Graphic file (type jpg)
 <use Figures/machinecontroller.jpg>
 Package pdftex.def Info: Figures/machinecontroller.jpg  used on input line 13.
@@ -339,7 +333,7 @@ Package pdftex.def Info: Figures/machinecontroller.jpg  used on input line 13.
  [7
 
  <./Figures/machinecontroller.jpg>]
-<Figures/machining.jpg, id=49, 4015.0pt x 3011.25pt>
+<Figures/machining.jpg, id=42, 4015.0pt x 3011.25pt>
 File: Figures/machining.jpg Graphic file (type jpg)
 <use Figures/machining.jpg>
 Package pdftex.def Info: Figures/machining.jpg  used on input line 29.
@@ -349,15 +343,11 @@ Package pdftex.def Info: Figures/machining.jpg  used on input line 29.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) [8] [9 <./Figures/machining.jpg>] (Files/Chapter4.tex
-<Figures/result.jpg, id=58, 3011.25pt x 4015.0pt>
+<Figures/result.jpg, id=50, 3011.25pt x 4015.0pt>
 File: Figures/result.jpg Graphic file (type jpg)
 <use Figures/result.jpg>
 Package pdftex.def Info: Figures/result.jpg  used on input line 5.
-(pdftex.def)             Requested size: 455.24408pt x 606.94135pt.
-
-
-LaTeX Warning: Float too large for page by 17.69133pt on input line 8.
-
+(pdftex.def)             Requested size: 341.43306pt x 455.19069pt.
 ) [10
 
 ] [11 <./Figures/result.jpg>] (Files/Chapter5.tex) [12
@@ -375,11 +365,11 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4418 strings out of 478927
- 68114 string characters out of 2869020
+ 4410 strings out of 478927
+ 67956 string characters out of 2869020
  364810 words of memory out of 3000000
- 22206 multiletter control sequences out of 15000+600000
- 411872 words of font info for 57 fonts, out of 8000000 for 9000
+ 22202 multiletter control sequences out of 15000+600000
+ 411520 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,79p,806b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\earls\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
@@ -387,11 +377,10 @@ Here is how much of TeX's memory you used:
 0\tcrm1200.pk><F:/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><F:/MikTex/f
 onts/type1/public/amsfonts/cm/cmmi12.pfb><F:/MikTex/fonts/type1/public/amsfonts
 /cm/cmr10.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><F:/MikTex/fo
-nts/type1/public/amsfonts/cm/cmsl12.pfb><F:/MikTex/fonts/type1/public/amsfonts/
-cm/cmti12.pfb>
-Output written on Main_file.pdf (18 pages, 1475834 bytes).
+nts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Main_file.pdf (16 pages, 1464618 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

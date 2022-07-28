@@ -1,50 +1,31 @@
-\section*{\centering{Appendices}}
+\section*{\centering{Appendix - G and M Modes}}
+\lhead{\textit{APPENDIX - G AND M CODES}}
  \appendix
  \pagenumbering{roman}
  \subsection{G- and M-codes}
  \begin{table}[!h]
- 	\caption[G-Codes]{G-codes}
- \end{table}
+ 	\caption[G- and M-Codes]{G- and M-codes}
+
  \begin{center}
  \centering
- \begin{tabular}{|l|l|}
+ \begin{tabular}{|l|l|l|l|}
  \hline
- G-code & Definition\\
+ \textbf{G-code} & \textbf{Definition} &\textbf{ M-code} & \textbf{Definition}\\
  \hline
  
- G00 & Rapid Transverse\\
- G01 & Linear Interpolation\\
- G02 & Circular Interpolation, CW\\
- G03 & Circular Interpolation, CCW\\
- G21 & Input in mm\\
- G28 & Return to reference point\\
- G40 & Cutter diameter compensation cancel\\
- G42 & Cutter compensation, right\\
- G49 & Tool length compensation cancel\\
- G80 & Canned Cycle cancel\\
- G81 & Basic Drilling Cycle\\
- G90 & Absolute Programming Mode\\
+ G00 & Rapid Transverse & M00 & Program Stop\\
+ G01 & Linear Interpolation &  M02 & End of Program \\
+ G02 & Circular Interpolation, CW & M03 & Spindle ON, CW \\
+ G03 & Circular Interpolation, CCW& M05 & Spindle OFF \\
+ G21 & Input in mm & M06 & Automatic Tool Change\\
+ G28 & Return to reference point & M07 & Flood Coolant ON \\
+ G40 & Cutter diameter compensation cancel&M09 & Coolant OFF\\
+ G42 & Cutter compensation, right &  M30 & Program Reset and Rewind\\
+ G49 & Tool length compensation cancel &&\\
+ G80 & Canned Cycle cancel&&\\
+ G81 & Basic Drilling Cycle&&\\
+ G90 & Absolute Programming Mode&&\\
  \hline
  \end{tabular}
  \end{center}
- \begin{table}[!h]
- 	\caption[M-Codes]{M-codes}
  \end{table}
- \begin{center}
- \centering
- \begin{tabular}{|l|l|}
- \hline
- G-code & Definition\\
- \hline
- 
- M00 & Program Stop\\
- M02 & End of Program\\
- M03 & Spindle ON, CW\\
- M05 & Spindle OFF\\
- M05 & Automatic Tool Change\\
- M07 & Flood Coolant ON\\
- M09 & Coolant OFF\\
- M30 & Program Reset and Rewind\\
- \hline
- \end{tabular}
- \end{center}

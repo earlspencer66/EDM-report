@@ -18,45 +18,40 @@ The main components of the CNC system are shown in Fig. \ref{fig:cnc}. These com
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.8\linewidth]{Figures/cncschematic}
-	\caption[CNC Machining System Schematic]{CNC Machine Table Location Schematic}
+	\caption[CNC Machining System Schematic]{CNC Machine Table Location Schematic \cite{Kalpakjian2010}}
 	\label{fig:cnc}
 \end{figure}
 \subsubsection{CNC Machining Process Parameters}
-The CNC Machining Process can be used to machine
+The CNC Machining Process can be used to machine any number of a number of materials including metals and ceramics. Any material than can be machined conventionally can also be machined using a CNC Milling machine.
 The performace of a CNC Machining operation is determined by a number of properties:
 \begin{enumerate}
 	\item Material Removal Rate (MRR)
 	\item Surface Quality
 	\item Accuracy
+	\item Machining time
 \end{enumerate}
-These are determined by the process parameters such as:
-\begin{itemize}
-	\item Pulse characteristics
-	\item Workpiece properties - ductility, hardness, grain formation
-	\item Use of cutting fluids such as 
-	\item Dielectric properties
-	\item Tool electrode - material, movement, wear
-\end{itemize}
-
-\subsubsection{Applications}
+\subsection{Accuracy in Numerical Control}
+Positioning accuracy in numerical-control machines is defined by how accurately the machine can be positioned with respect to a certain coordinate system. \textit{Repeat accuracy} is defined as the closeness of the agreement of the repeated position movements under the same operating conditions of the machine. Resolution, also called sensitivity, is the smallest increment of motion of the machine components.\\
+The \textit{stiffness} of the machine tool and the \textit{backlash} in gear drives and leadscrews are important factors in achieving dimensional accuracy. Backlash in modern machines is eliminated by using preloaded ball screws. Also, a rapid response to command signals requires that friction in machine slideways and inertia be minimized. The latter can be achieved by reducing the mass of moving components of the machine—for example, by using lightweight materials, including ceramics.
+\newpage
+\subsection{Applications}
 CNC Machining can be employed in:
 \begin{enumerate}
-	\item Micro-EDM: Micromachining of holes, slots and dies.
-	\item EDM drilling - creation of cooling channels in turbines made of hard alloys.
-	\item Electrodischarge sawing where billets and bars are created.
-	\item Machining spheres, dies and moulds.
-	\item EDM of ceramics used in insulation.
-	\item Texturing - texturing is applied to the steel sheets during the final stages of cold rolling.
+	\item Making complex 3D geometries
+	\item Creation of part profiles to be used in making moulds for casting.
+	\item Machining centres
+	\item Academic/Educational institutions for research and teaching.
 \end{enumerate}
 \subsection{Other NC Machining Processes}
 Numerical control has been applied to a wide variety of other production processes\cite{Black2011}, some of which are listed below
 \begin{enumerate}
 	\item NC Punches - Numerical control is used for \textit{X-Y} control on the table.
+	\item CNC Lathe machines
 	\item CNC Wire EDM Machines
 	\item Laser and water-jet abrasive machining
 	\item Flame cutters
 \end{enumerate}
-\subsubsection{Advantages and Disadvantages of Numerical Control}
+\subsection{Advantages and Disadvantages of Numerical Control}
 Numerica Control has several advantages as compared to other conventional methods of control\cite{Kalpakjian2010}, some of which are:
 \begin{enumerate}
 	\item Higher production rates, productivity, and product quality; greater operational flexibility; the capacity to make complicated forms with good dimensional precision and repeatability; and reduced scrap loss.

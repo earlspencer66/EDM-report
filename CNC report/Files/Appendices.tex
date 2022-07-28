@@ -1,6 +1,31 @@
-\chapter*{\centering{Appendices}}
-\section*{Appendix A: 
-\section*{Appendix B: 
-        
-\section*{Appendix C: 
-\section*{Appendix F:
+\section*{\centering{Appendix - G and M Modes}}
+\lhead{\textit{APPENDIX - G AND M CODES}}
+\appendix
+\pagenumbering{roman}
+\subsection{G- and M-codes}
+\begin{table}[!h]
+	\caption[G- and M-Codes]{G- and M-codes}
+	
+	\begin{center}
+		\centering
+		\begin{tabular}{|l|l|l|l|}
+			\hline
+			\textbf{G-code} & \textbf{Definition} &\textbf{ M-code} & \textbf{Definition}\\
+			\hline
+			
+			G00 & Rapid Transverse & M00 & Program Stop\\
+			G01 & Linear Interpolation &  M02 & End of Program \\
+			G02 & Circular Interpolation, CW & M03 & Spindle ON, CW \\
+			G03 & Circular Interpolation, CCW& M05 & Spindle OFF \\
+			G21 & Input in mm & M06 & Automatic Tool Change\\
+			G28 & Return to reference point & M07 & Flood Coolant ON \\
+			G40 & Cutter diameter compensation cancel&M09 & Coolant OFF\\
+			G42 & Cutter compensation, right &  M30 & Program Reset and Rewind\\
+			G49 & Tool length compensation cancel &&\\
+			G80 & Canned Cycle cancel&&\\
+			G81 & Basic Drilling Cycle&&\\
+			G90 & Absolute Programming Mode&&\\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{table}

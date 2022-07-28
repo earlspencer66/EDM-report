@@ -1,22 +1,23 @@
-\contentsline {section}{Table of Contents}{I}{}%
-\contentsline {section}{List of Figures}{II}{}%
-\contentsline {section}{List of Abbreviations}{1}{}%
-\contentsline {section}{\numberline {1}Introduction}{1}{}%
-\contentsline {subsection}{\numberline {1.1}CNC Machining}{1}{}%
-\contentsline {subsection}{\numberline {1.2}Objectives}{1}{}%
-\contentsline {section}{\numberline {2}Literature Review}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Numerical Control in Machining}{2}{}%
-\contentsline {subsection}{\numberline {2.2}CNC Machining}{2}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}The CNC Machining System}{2}{}%
-\contentsline {subsubsection}{\numberline {2.2.2}CNC Machining Process Parameters}{4}{}%
-\contentsline {subsubsection}{\numberline {2.2.3}Applications}{4}{}%
-\contentsline {subsection}{\numberline {2.3}Other NC Machining Processes}{5}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}Advantages and Disadvantages of Numerical Control}{5}{}%
-\contentsline {section}{\numberline {3}Methodology}{7}{}%
-\contentsline {subsection}{\numberline {3.1}Equipment}{7}{}%
-\contentsline {subsection}{\numberline {3.2}Procedure}{8}{}%
-\contentsline {subsection}{\numberline {3.3}EDM Machining Program}{8}{}%
-\contentsline {section}{\numberline {4}Results}{10}{}%
-\contentsline {section}{\numberline {5}Discussion}{12}{}%
-\contentsline {subsection}{\numberline {5.1}CNC Machining}{12}{}%
-\contentsline {section}{References}{13}{}%
+\contentsline {section}{Table of Contents}{I}{figure.caption.1}%
+\contentsline {section}{List of Figures}{II}{figure.caption.1}%
+\contentsline {section}{List of Abbreviations}{1}{figure.caption.1}%
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}CNC Machining}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Objectives}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Literature Review}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Numerical Control in Machining}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}CNC Machining}{2}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}The CNC Machining System}{2}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}CNC Machining Process Parameters}{4}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Accuracy in Numerical Control}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Applications}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Other NC Machining Processes}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Advantages and Disadvantages of Numerical Control}{5}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Methodology}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Equipment}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Procedure}{8}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Results}{10}{section.4}%
+\contentsline {section}{\numberline {5}Discussion}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}CNC Machining}{11}{subsection.5.1}%
+\contentsline {section}{References}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {.1}G- and M-codes}{i}{subsection.Alph0.1}%
